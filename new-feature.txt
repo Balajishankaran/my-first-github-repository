@@ -1,1 +1,3 @@
 new file in new-feature.txt
+
+added one more line
